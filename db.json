@@ -1,0 +1,185 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "email": "john@example.com",
+      "phone": "9876543210",
+      "department": "IT",
+      "designation": "Frontend Developer",
+      "salary": "60000"
+    },
+    {
+      "id": "2",
+      "name": "Priya Sharma",
+      "email": "priya@example.com",
+      "phone": "9123456789",
+      "department": "HR",
+      "designation": "HR Manager",
+      "salary": 55000
+    },
+    {
+      "id": "3",
+      "name": "Rahul Kumar",
+      "email": "rahul@example.com",
+      "phone": "9988776655",
+      "department": "Finance",
+      "designation": "Accountant",
+      "salary": 50000
+    },
+    {
+      "name": "Pratap Rudra",
+      "email": "Pratap.13@gmail.com",
+      "phone": "9745287927",
+      "department": "Service",
+      "designation": "Service Desk",
+      "salary": "45000",
+      "id": "mTOInKfqmHw"
+    },
+    {
+      "name": "Kiran Kumar",
+      "email": "kiran456@gmail.com",
+      "phone": "9457289467",
+      "department": "IT",
+      "designation": "Testing",
+      "salary": "60000",
+      "id": "HsdSip__hRM"
+    },
+    {
+      "name": "Kowshik Varma",
+      "email": "kowshikv@gmail.com",
+      "phone": "9874372859",
+      "department": "Service",
+      "designation": "Service Desk",
+      "salary": "50000",
+      "id": "MXnRW2l9biw"
+    },
+    {
+      "name": "Pratheek",
+      "email": "pratheek43@gmail.com",
+      "phone": "9823748264",
+      "department": "IT",
+      "designation": "Program Analyst",
+      "salary": "60000",
+      "id": "dsKKPaf1J38"
+    },
+    {
+      "name": "Sashank Ganji",
+      "email": "sashankg@gmail.com",
+      "phone": "9452826482",
+      "department": "IT",
+      "designation": "Full Stack Developer",
+      "salary": "80000",
+      "id": "Bp5oA7vliT8"
+    },
+    {
+      "name": "Sanvi Dulipalla",
+      "email": "sanvid56@gmail.com",
+      "phone": "9746289463",
+      "department": "IT",
+      "designation": "Support Engineer",
+      "salary": "40000",
+      "id": "hHH7ewCZu1c"
+    },
+    {
+      "name": "Sarath Ratnakar",
+      "email": "sarathr3@gmail.com",
+      "phone": "9758294683",
+      "department": "Service",
+      "designation": "Service Desk",
+      "salary": "40000",
+      "id": "CQPRU8UUuCw"
+    },
+    {
+      "name": "Mallesh Mote",
+      "email": "mallesh@gmail.com",
+      "phone": "9347846247",
+      "department": "IT",
+      "designation": "Analyst",
+      "salary": "50000",
+      "id": "TN2cULsZfXs"
+    },
+    {
+      "name": "Manish Kolla",
+      "email": "manishkolla@gmail.com",
+      "phone": "9238568274",
+      "department": "IT",
+      "designation": "Backend Developer",
+      "salary": "50000",
+      "id": "DU5w2Q8Aja4"
+    },
+    {
+      "name": "Kailash Gupta",
+      "email": "kailashg6@gmail.com",
+      "phone": "9462485416",
+      "department": "IT",
+      "designation": "Scrum Master",
+      "salary": "125000",
+      "id": "1dTT99FkkME"
+    },
+    {
+      "name": "Akash Gowri",
+      "email": "akashg@gmail.com",
+      "phone": "3445284516",
+      "department": "IT",
+      "designation": "Team Lead",
+      "salary": "65000",
+      "id": "I6vynepZYos"
+    },
+    {
+      "name": "Kiranmai Chaluvadi",
+      "email": "kiranmai.ch@gmail.com",
+      "phone": "9785214585",
+      "department": "Engineer",
+      "designation": "System Engineer",
+      "salary": "45000",
+      "id": "vBmj6dgrvGQ"
+    },
+    {
+      "name": "Kakarla Jyothi",
+      "email": "jyothikakarla@gmail.com",
+      "phone": "9814669858",
+      "department": "IT",
+      "designation": "Full Stack Developer",
+      "salary": "80000",
+      "id": "EowHW9KbFXw"
+    },
+    {
+      "name": "Sindhu Priya Kunchala",
+      "email": "sindhupriya92@gmail.com",
+      "phone": "9856214789",
+      "department": "IT",
+      "designation": "Back-end Developer",
+      "salary": "65000",
+      "id": "BA227I32HeM"
+    },
+    {
+      "name": "Anusha Mustimanda",
+      "email": "anusham@gmail.com",
+      "phone": "9658658526",
+      "department": "IT",
+      "designation": "Network Designer",
+      "salary": "50000",
+      "id": "YD5JKSbLSw4"
+    },
+    {
+      "name": "Akshay Kumar",
+      "email": "akshay@gmail.com",
+      "phone": "9632158598",
+      "department": "IT",
+      "designation": "Analyst",
+      "salary": "40000",
+      "id": "LDvXV0IiQD8"
+    },
+    {
+      "name": "Kailash Gopi",
+      "email": "kailashg@gmail.com",
+      "phone": "9628522535",
+      "department": "IT",
+      "designation": "Software Engineer",
+      "salary": "50000",
+      "id": "CaxiP0_qKJA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
