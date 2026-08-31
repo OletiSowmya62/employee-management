@@ -47,7 +47,8 @@ Employee Management
 - ⚡ Production deployment
 
 ## 🛠️ Tech Stack
-Frontend
+
+### Frontend
 - React
 - Vite
 - React Router
@@ -57,24 +58,27 @@ Frontend
 - React Toastify
 - Chart.js
 - react-chartjs-2
-Backend
+
+### Backend
 - JSON Server
 - REST API
 
-## Development Tools
-JavaScript
-HTML5
-CSS3
-Git
-GitHub
-ESLint
-VS Code
+### Development Tools
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+- ESLint
+- VS Code
 
-## Deployment
-Vercel – Frontend
-Render – Backend API
+## ☁️ Deployment
+- Vercel – Frontend
+- Render – Backend API
 
 ## 🏗️ Architecture
+
+```text
 User
   │
   ▼
@@ -106,6 +110,7 @@ React Frontend
         │
         ▼
      db.json
+```
 
 ## 📂 Project Structure
 
@@ -115,10 +120,10 @@ src/
 │   ├── Loader.jsx
 │   ├── Navbar.jsx
 │   ├── ProtectedRoute.jsx
-│   |── ErrorBoundary.jsx
+│   ├── ErrorBoundary.jsx
 │   ├── SalaryChart.jsx
 │   ├── EmployeeTable.jsx
-│   |── EmployeeForm.jsx
+│   ├── EmployeeForm.jsx
 │   ├── EmployeeActions.jsx
 │   ├── DepartmentChart.jsx
 │   └── DeleteConfirmModal.jsx
@@ -146,12 +151,13 @@ src/
 │
 ├── App.jsx
 ├── index.css
-└── main.jsx
-│ 
-├── db.json 
-├── package.json 
-├── README.md 
-└── vite.config.js
+├── main.jsx
+├── db.json
+├── package.json
+├── README.md
+├── vite.config.js
+└── public/
+```
 
 ## ⚙️ Installation
 
